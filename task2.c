@@ -18,9 +18,9 @@ int main() {
 
   //Результати
   printf("\n***Результати***\n");
-  printf("Число a = %d\n", a);
-  printf("Число b = %d\n", b);
-  printf("Число c = %d\n\n", c);
+  printf("Число a = %.f\n", a);
+  printf("Число b = %.f\n", b);
+  printf("Число c = %.f\n\n", c);
   printf("Відповідь: ");
   printf("y = %.2f", y);
 }
